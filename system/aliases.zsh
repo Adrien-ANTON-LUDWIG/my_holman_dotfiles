@@ -8,3 +8,7 @@ then
   alias ll="gls -l --color"
   alias la='gls -A --color'
 fi
+
+# Linux version of OSX pbcopy and pbpaste.
+alias pbcopy='xsel -- clipboard -- input'
+alias pbpaste='xsel -- clipboard -- output'
