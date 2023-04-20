@@ -1,3 +1,7 @@
+# My Holman dotfiles
+
+2 days after beginning to setup up my dotfiles following [Holman's dotfiles](https://github.com/holman/dotfiles), I discovered [`chezmoi`](https://github.com/twpayne/chezmoi) and decided it was the way to go.
+
 # holman does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
